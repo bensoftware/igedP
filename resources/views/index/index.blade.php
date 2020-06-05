@@ -139,9 +139,7 @@
           <span><i class="icon-calendar mr-2"></i>2 ans</span>
         </p>
         <h3><a href="#">RESEAU INFORMATIQUE</a></h3>
-        <p>Separated they live in. A small river by their place and supplies it with the necessary
-          regelialia. It is a paradisematic country</p>
-        <p><a href="#" class="btn btn-primary">Lire la suite</a></p>
+
       </div>
     </div>
     <div class="col-md-3 course ftco-animate">
@@ -153,9 +151,7 @@
           <span><i class="icon-calendar mr-2"></i>4 ans</span>
         </p>
         <h3><a href="#">MAINTENANCE INFORMATIQUE</a></h3>
-        <p>Separated they live in. A small river named Duden flows by their place and supplies it with
-          the necessary regelialia. It is a paradisematic country</p>
-        <p><a href="#" class="btn btn-primary">Lire la suite</a></p>
+
       </div>
     </div>
     <div class="col-md-3 course ftco-animate">
@@ -167,9 +163,7 @@
           <span><i class="icon-calendar mr-2"></i>4 ans</span>
         </p>
         <h3><a href="#">INFOGRAPHIE</a></h3>
-        <p>Separated they live in. A small river named Duden flows by their place and supplies it with
-          the necessary regelialia. It is a paradisematic country</p>
-        <p><a href="#" class="btn btn-primary">Lire la suite</a></p>
+
       </div>
     </div>
     <div class="col-md-3 course ftco-animate">
@@ -181,9 +175,6 @@
           <span><i class="icon-calendar mr-2"></i>4 ans</span>
         </p>
         <h3><a href="#">PATISSERIE</a></h3>
-        <p>Separated they live in. A small river named Duden flows by their place and supplies it with
-          the necessary regelialia. It is a paradisematic country</p>
-        <p><a href="#" class="btn btn-primary">Lire la suite</a></p>
       </div>
     </div>
   </div>

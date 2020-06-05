@@ -17,6 +17,14 @@ Route::get('/welcome', function (){
     return view('welcome');
 });
 
+Route::get('/diplome', function (){
+    return view('diplome.diplome');
+});
+
+Route::get('/presentation', function (){
+    return view('pages.presentation');
+});
+
 Route::get('/test', function (){
     return view('test');
 });
