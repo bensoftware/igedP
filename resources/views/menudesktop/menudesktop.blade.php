@@ -21,7 +21,7 @@
 							<ul class="sub-menu">
 								<li><a href="">NATIONAUX</a>
 									<ul class="sub-menu">
-										<li><a href="{{url('/diplome/{$cap}')}}">CAP </a></li>
+										<li><a href="{{url('/diplome')}}">CAP </a></li>
 										<li><a href="">BT</a></li>
 									</ul>
 								</li>
