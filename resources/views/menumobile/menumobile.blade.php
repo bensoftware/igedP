@@ -17,8 +17,7 @@
           <h2 style="color: white;">
             Mail:
           </h2>
-
-          <p>jnk </p>
+          <p>groupedescartes@gmail.com</p>
         </span>
       </div>
     </li>
@@ -45,34 +44,36 @@
 
   <ul class="main-menu-m">
     <li>
-      <a href="{{url('/')}}">Acceuil</a>
+      <a href="{{url('/')}}">ACCEUIL</a>
       <span class="arrow-main-menu-m">
         <i class="fa fa-angle-right" aria-hidden="true"></i>
       </span>
     </li>
     <li>
-      <a href="{{url('/')}}">News</a>
+      <a href="{{url('/presentation')}}">PRESENTATION</a>
     </li>
 
     <li>
-      <a href="{{url('/')}}">Entertainment </a>
+      <a href="{{url('/diplome')}}">BTS</a>
+    </li>
+    <li>
+      <a href="{{url('/diplome')}}">CAP</a>
+    </li>
+    <li>
+      <a href="{{url('/diplome')}}">BT</a>
+    </li>
+    <li>
+      <a href="{{url('/diplome')}}">VAE</a>
+    </li>
+    <li>
+      <a href="{{url('/news')}}">NEWS</a>
+    </li>
+    <li>
+      <a href="{{url('/about')}}">A PROPOS</a>
     </li>
 
     <li>
-      <a href="{{url('/')}}">Business</a>
-    </li>
-
-    <li>
-      <a href="{{url('/')}}">Travel</a>
-    </li>
-
-    <li>
-      <a href="{{url('/')}}">Life Style</a>
-    </li>
-
-    <li>
-      <a href="{{url('/')}}">Video</a>
-    </li>
+      <a href="{{url('/contact')}}">CONTACT</a>
     </li>
   </ul>
 </div>

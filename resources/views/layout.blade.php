@@ -100,8 +100,7 @@
             <script src="{{URL::asset('public/js/main2.js')}}"></script>
 
   <!--===========================Custom part espacially for News Page====================================================================-->
-  <script>
-
+<script>
 var show_per_page = 3;
 var current_page = 0;
 
@@ -142,5 +141,17 @@ $('#page_navigation').html(nav);
 set_display(0, show_per_page);
 });
 </script>
+
+
+<script>
+  $(document).ready(function(){
+      $('.phone').inputmask('(999)-999-9999');
+      $('.phone2').inputmask('(99)-9999-9999');
+      $('.phone3').inputmask('99-9999999999');
+  });
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
 </body>
 </html>

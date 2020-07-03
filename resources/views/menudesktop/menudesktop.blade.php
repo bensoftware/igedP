@@ -11,9 +11,11 @@
       <a href="#">IGED</a>
       <ul class="sub-menu">
         <li><a href="{{url('/presentation')}}">PRESENTATION</a></li>
-        <li><a href="{{url('/')}}">ORGANISATION</a></li>
+      <!--  <li><a href="{{url('/')}}">ORGANISATION</a></li>
+
         <li><a href="{{url('/news')}}">NEWS</a></li>
         <li><a href="{{url('/')}}">MEDIA</a></li>
+        -->
       </ul>
     </li>
     <li>
@@ -21,14 +23,15 @@
 							<ul class="sub-menu">
 								<li><a href="">NATIONAUX</a>
 									<ul class="sub-menu">
-										<li><a href="{{url('/diplome')}}">CAP </a></li>
-										<li><a href="">BT</a></li>
+										<li><a href="{{url('/cap-national')}}">CAP </a></li>
+										<li><a href="{{url('/bt-national')}}">BT</a></li>
+                    <li><a href="{{url('/bts-national')}}">BTS</a></li>
 									</ul>
 								</li>
 								<li><a href="">INTERNATIONAUX</a>
 									<ul class="sub-menu">
-										<li><a href="">BTS </a></li>
-										<li><a href="">VAE</a></li>
+										<li><a href="{{url('/bts-international')}}">BTS </a></li>
+										<li><a href="{{url('/vae')}}">VAE</a></li>
 									</ul>
 								</li>
 							</ul>
@@ -55,7 +58,9 @@
     <li>
       <a href="#">INFO</a>
       <ul class="sub-menu">
+          <!--
         <li><a href="{{url('/about')}}">A PROPOS DE NOUS </a></li>
+        -->
         <li><a href="{{url('/contact')}}">CONTACT</a></li>
       </ul>
     </li>

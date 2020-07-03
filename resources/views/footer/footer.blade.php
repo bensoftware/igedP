@@ -10,7 +10,6 @@
 								Avez-vous des questions ?
 							</h5>
 						</a>
-
 					</div>
 				  <div class="block-23 mb-3">
 					<ul>
@@ -19,27 +18,10 @@
 					  <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@ged.mr</span></a></li>
 					</ul>
 				  </div>
-
 					<div>
 						<div class="p-t-15">
 							<a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8">
 								<span class="fab fa-facebook-f"></span>
-							</a>
-
-							<a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8">
-								<span class="fab fa-twitter"></span>
-							</a>
-
-							<a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8">
-								<span class="fab fa-pinterest-p"></span>
-							</a>
-
-							<a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8">
-								<span class="fab fa-vimeo-v"></span>
-							</a>
-
-							<a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8">
-								<span class="fab fa-youtube"></span>
 							</a>
 						</div>
 					</div>
@@ -51,35 +33,32 @@
 							Information
 						</h5>
 					</div>
+
 					<ul class="list-unstyled">
 						<li><a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8"><span class="ion-ios-arrow-round-forward mr-2"></span>Acceuil</a></li>
-						<li><a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8"><span class="ion-ios-arrow-round-forward mr-2"></span>News</a></li>
-						<li><a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8"><span class="ion-ios-arrow-round-forward mr-2"></span>A propos de nous</a></li>
-						<li><a href="#"class="fs-18 cl11 hov-cl10 trans-03 m-r-8"><span class="ion-ios-arrow-round-forward mr-2"></span>Contactez nous</a></li>
-					  </ul>
-
+						<li><a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8"><span class="ion-ios-arrow-round-forward mr-2"></span>Presentation</a></li>
+						<li><a href="#"class="fs-18 cl11 hov-cl10 trans-03 m-r-8"><span class="ion-ios-arrow-round-forward mr-2"></span>Contact</a></li>
+					</ul>
 				</div>
-
 
 				<div class="col-sm-6 col-lg-4 p-b-20">
 					<div class="size-h-3 flex-s-c">
 						<h5 class="f1-m-7 cl0">
 							Abonnez-Vous
 						</h5>
-
 					</div>
-
 					<ul>
 						<li class="flex-wr-sb-s p-b-20">
-							<form action="#" class="subscribe-form">
+							<form action="{{route('abonement.store')}}" class="subscribe-form"  method="POST">
+								 @csrf
 								<div class="form-group">
-								  <input type="text" class="form-control mb-2 text-center" placeholder="Adresse electronique">
+								  <input type="email" class="form-control mb-2 text-center" name="email" placeholder="Adresse electronique" required>
 								  <input type="submit" value="Abonnement" class="form-control submit px-3">
 								</div>
 							  </form>
 						</li>
-
 					</ul>
+
 				</div>
 			</div>
 		</div>

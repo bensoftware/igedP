@@ -5,16 +5,47 @@
 @endsection
 @section('page-content')
 
+@if ($errors->any())
+      <div class="alert alert-danger">
+          <ul>
+              @foreach ($errors->all() as $error)
+                  <li>{{ $error }}</li>
+              @endforeach
+          </ul>
+      </div>
+  @endif
 
 <section class="home-slider owl-carousel">
+
+
+  <div class="slider-item" style="background-image:url({{URL::asset('public/images/bg_2.jpg')}});">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
+      <div class="col-md-6 ftco-animate">
+        <h1 class="mb-4">Un environnement familial centré sur l’étudiant !
+            </h1>
+            <p>
+                Accompagnement individuel.</br>
+               	Développement du projet personnel et professionnel.  </br>
+            </p>
+        <p><a href="{{url('/contact')}}" class="btn btn-primary px-4 py-3 mt-3">Contactez nous</a></p>
+      </div>
+    </div>
+    </div>
+  </div>
+
   <div class="slider-item" style="background-image:url({{URL::asset('public/images/bg_1.jpg')}});">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
       <div class="col-md-6 ftco-animate">
-        <h1 class="mb-4">IGED est en recherche des enseignants</h1>
-        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-        <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Contact Us</a></p>
+        <h1>Des compétences pour la vie !
+        </h1></br>
+  						<p>	Programmes basés sur les projets pour acquérir des compétences « entrepreneuriales »
+                 considérées comme la clé du succès sur le marché du travail du 21ème siècle : autonomie,
+                 créativité, communication, culture informatique.</p>
+        <p><a href="{{url('/contact')}}" class="btn btn-primary px-4 py-3 mt-3">Contactez nous</a></p>
       </div>
     </div>
     </div>
@@ -25,9 +56,14 @@
     <div class="container">
       <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
       <div class="col-md-6 ftco-animate">
-        <h1 class="mb-4">IGED,Institut du groupe René Descartes.</h1>
-        <p>Institut du groupe René Descartes.</p>
-        <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Contact Us</a></p>
+        <h1 class="mb-4">Déjà l’entreprise !
+						</h1>
+            <p>
+              Nos programmes sont conçus et actualisés avec la validation des recruteurs .</br>
+              Des stages dès la première année .</br>
+              Un taux de recrutement élevé de nos lauréats.
+            </p>
+        <p><a href="{{url('/contact')}}" class="btn btn-primary px-4 py-3 mt-3">Contactez nous</a></p>
       </div>
     </div>
     </div>
@@ -133,11 +169,13 @@
     <div class="col-md-3 course ftco-animate">
       <div class="img" style="background-image:url({{URL::asset('public/images/course-1.jpg')}});"></div>
       <div class="text pt-4">
+  <!---
         <p class="meta d-flex">
-          <span><i class="icon-user mr-2"></i>Mr. Khan</span>
+          <span><a href="{{url('/')}}" class="btn btn-primary"></a><i class="icon-user mr-2"></i>Mr. Khan</span>
           <span><i class="icon-table mr-2"></i>10 places</span>
           <span><i class="icon-calendar mr-2"></i>2 ans</span>
         </p>
+  --->
         <h3><a href="#">RESEAU INFORMATIQUE</a></h3>
 
       </div>
@@ -145,11 +183,13 @@
     <div class="col-md-3 course ftco-animate">
       <div class="img" style="background-image: url({{URL::asset('public/images/course-2.jpg')}});"></div>
       <div class="text pt-4">
+          <!---
         <p class="meta d-flex">
           <span><i class="icon-user mr-2"></i>Mr. Khan</span>
           <span><i class="icon-table mr-2"></i>10 places</span>
           <span><i class="icon-calendar mr-2"></i>4 ans</span>
         </p>
+          --->
         <h3><a href="#">MAINTENANCE INFORMATIQUE</a></h3>
 
       </div>
@@ -157,11 +197,13 @@
     <div class="col-md-3 course ftco-animate">
       <div class="img" style="background-image: url({{URL::asset('public/images/course-3.jpg')}});"></div>
       <div class="text pt-4">
+    <!---
         <p class="meta d-flex">
           <span><i class="icon-user mr-2"></i>Mr. Khan</span>
           <span><i class="icon-table mr-2"></i>10 places</span>
           <span><i class="icon-calendar mr-2"></i>4 ans</span>
         </p>
+      --->
         <h3><a href="#">INFOGRAPHIE</a></h3>
 
       </div>
@@ -169,11 +211,13 @@
     <div class="col-md-3 course ftco-animate">
       <div class="img" style="background-image: url({{URL::asset('public/images/course-4.jpg')}});"></div>
       <div class="text pt-4">
+        <!---
         <p class="meta d-flex">
           <span><i class="icon-user mr-2"></i>Mr. Khan</span>
           <span><i class="icon-table mr-2"></i>10 places</span>
           <span><i class="icon-calendar mr-2"></i>4 ans</span>
         </p>
+        --->
         <h3><a href="#">PATISSERIE</a></h3>
       </div>
     </div>
@@ -184,58 +228,4 @@
 <div class="overlay">
 	</div>
 
-  <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb" style="background-image: url({{URL::asset('public/images/bg_5.jpg')}}); background-position: 50% -87.5px;" data-stellar-background-ratio="0.5">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row justify-content-end">
-				<div class="col-md-6 py-5 px-md-5">
-					<div class="py-md-5">
-						<div class="heading-section heading-section-white ftco-animate mb-5 fadeInUp ftco-animated">
-							<h2 class="mb-4">Pre-Inscription</h2>
-							<p>crivez nous crivez nous crivez nous crivez nouscrivez nous crivez nous crivez nous crivez
-								nous crivez nous crivez nous.</p>
-						</div>
-						<form action="#" class="appointment-form ftco-animate fadeInUp ftco-animated">
-							<div class="d-md-flex">
-								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Prenom(s)">
-								</div>
-								<div class="form-group ml-md-4">
-									<input type="text" class="form-control" placeholder="Nom(s)">
-								</div>
-							</div>
-							<div class="d-md-flex">
-								<div class="form-group">
-									<div class="form-field">
-										<div class="select-wrap">
-											<div class="icon"><span class="ion-ios-arrow-down"></span></div>
-											<select class="form-control selectpicker" style="background-color: black;">
-												<option value="">Selectionnez votre Parcour</option>
-												<option value="">RESEAU INFORMATIQUE </option>
-												<option value="">MAINTENANCE
-												</option><option value="">INFOGRAPHIE</option>
-												<option value="">PATISSERIE</option>
-
-											</select>
-										</div>
-									</div>
-								</div>
-								<div class="form-group ml-md-4">
-									<input type="text" class="form-control" placeholder="Phone">
-								</div>
-							</div>
-							<div class="d-md-flex">
-								<div class="form-group">
-									<textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Message"></textarea>
-								</div>
-								<div class="form-group ml-md-4">
-									<input type="submit" value="SOUMETTRE" class="btn btn-primary py-3 px-4">
-								</div>
-							</div>
-						</form>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
 @endsection

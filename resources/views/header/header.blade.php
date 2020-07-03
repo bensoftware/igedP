@@ -20,28 +20,12 @@
           <p>	groupedescartes@gmail.com</p>
         </span>
       </div>
-
       <div class="right-topbar">
         <a href="#">
           <span class="fab fa-facebook-f"></span>
         </a>
-
-        <a href="#">
-          <span class="fab fa-twitter"></span>
-        </a>
-
-        <a href="#">
-          <span class="fab fa-pinterest-p"></span>
-        </a>
-
-        <a href="#">
-          <span class="fab fa-vimeo-v"></span>
-        </a>
-
-        <a href="#">
-          <span class="fab fa-youtube"></span>
-        </a>
       </div>
+
     </div>
   </div>
 
@@ -51,7 +35,6 @@
     <div class="logo-mobile">
       <a href="{{url('/')}}"><img src="{{URL::asset('public/images/icon.jpg')}}" alt=""></a>
     </div>
-
     <!-- Button show menu -->
     <div class="btn-show-menu-mobile hamburger hamburger--squeeze m-r--8">
       <span class="hamburger-box">
@@ -67,7 +50,6 @@
     <div class="logo">
       <a href="{{url('/')}}"><img src="{{URL::asset('public/images/icon.jpg')}}" alt="LOGO"  style="width:75px;height:75px;"></a>
     </div>
-
     <!-- Banner -->
     <div class="banner-header">
       <a href="{{url('/')}}"><img src="{{URL::asset('public/images/images/banner-01.jpg')}}" alt="IMG"></a>

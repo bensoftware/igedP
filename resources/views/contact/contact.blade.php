@@ -9,10 +9,9 @@
     <div class="container">
       <div class="row no-gutters slider-text align-items-center justify-content-center">
         <div class="col-md-9 ftco-animate text-center">
-          <h1 class="mb-2 bread"> Contactez - Nous</h1>
-
-      </div>
-    </div>
+          <h1 class="mb-2 bread">Contactez - Nous</h1>
+        </div>
+       </div>
   </section>
 
   <section class="ftco-section contact-section">
@@ -40,7 +39,7 @@
           <div class="bg-light align-self-stretch box p-4 text-center">
             <h3 class="mb-4">Site Web</h3>
             <p><a
-                href="https://silly-chandrasekhar-85792d.netlify.app">https://silly-chandrasekhar-85792d.netlify.app</a>
+                href="http://iged.mr/iged/s">http://iged.mr/iged/</a>
             </p>
           </div>
         </div>
@@ -48,6 +47,7 @@
     </div>
   </section>
 
+<!---
   <section class="ftco-section ftco-no-pt ftco-no-pb contact-section">
     <div class="container">
       <div class="row d-flex align-items-stretch no-gutters">
@@ -75,5 +75,5 @@
         </div>
       </div>
     </div>
-  </section>
+  </section>   --->
 @endsection

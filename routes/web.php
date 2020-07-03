@@ -1,7 +1,6 @@
 <?php
-
 use Illuminate\Support\Facades\Route;
-
+use App\postuler;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,12 +12,61 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/welcome', function (){
-    return view('welcome');
+Route::resource('/postuler','PostulerController');
+Route::resource('/abonement','AbonementController');
+
+Route::get('/infographie', function (){
+    return view('infographie');
 });
 
-Route::get('/diplome', function (){
-    return view('diplome.diplome');
+Route::get('/postuler', function (){
+    return view('postule');
+});
+
+Route::get('/bt-national', function (){
+    return view('bt');
+});
+
+Route::get('/bts-international', function (){
+    return view('btsi');
+});
+
+
+Route::get('/educateur-petite-enfance', function (){
+    return view('educateur_petite_enfance');
+});
+
+
+Route::get('/bts-national', function (){
+    return view('bts');
+});
+
+Route::get('/hotesse-steward', function (){
+    return view('hotesse');
+});
+
+Route::get('/vaee', function (){
+    return view('vae.vaee');
+});
+
+Route::get('/cuisine', function (){
+    return view('cuisine');
+});
+
+Route::get('/infographie', function (){
+    return view('infographie');
+});
+
+Route::get('/patisserie', function (){
+    return view('patisserie');
+});
+Route::get('/vae', function (){
+    return view('vae.vae');
+});
+
+Route::get('/cap-national', function (){
+       $postuler=new POSTULER();
+    return view('cap',compact('postuler'));
 });
 
 Route::get('/presentation', function (){
