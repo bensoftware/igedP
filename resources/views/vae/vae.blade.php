@@ -31,20 +31,11 @@
                 Description:
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                En partenariat avec les entreprises, IGED  souhaite favoriser l’insertion des étudiants dans la vie active et base ainsi leurs
-                enseignements sur de la théorie et une mise en application concrète (projets encadrés et périodes de stages). Ce diplôme plait
-                de plus en plus aux recruteurs et attire beaucoup les étudiants à la recherche d’un bagage universitaire suffisant pour intégrer
-                le monde du travail.
-              </p>
-
-              <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                Pourquoi la  est elle importante pour passer directement à la licence professionnelle ? :
-              </h1>
-              <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                La validation des acquis professionnels (V.A.E.) permet d’accéder directement à une formation universitaire sans avoir le diplôme requis,
-                en faisant valider une expérience professionnelle (salariée ou non), les formations suivies ou les acquis personnels développés hors de tout
-                système de formation.</br></br>
-                Les candidats doivent avoir au moins 35 ans et justifier de 2 à 5 années de pratique professionnelle dans le domaine cible.
+                La validation des acquis professionnels (V.A.P.) permet d’accéder
+                directement à une formation universitaire sans avoir le diplôme requis, en
+                faisant valider une expérience professionnelle (salariée ou non), les
+                formations suivies ou les acquis personnels développés hors de tout
+                système de formation.
               </p>
 
               <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
