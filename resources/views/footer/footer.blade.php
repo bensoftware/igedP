@@ -20,7 +20,7 @@
 				  </div>
 					<div>
 						<div class="p-t-15">
-							<a href="#" class="fs-18 cl11 hov-cl10 trans-03 m-r-8">
+							<a href="https://web.facebook.com/InstitutGED" class="fs-18 cl11 hov-cl10 trans-03 m-r-8">
 								<span class="fab fa-facebook-f"></span>
 							</a>
 						</div>

@@ -62,7 +62,7 @@
                   <strong>DIPLÔME DE SORTIE :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  Brevet de technitient en Infographie.
+                  Brevet de technicien en Infographie.
                 </p>
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DUREEE DE LA FORMATION :</strong>

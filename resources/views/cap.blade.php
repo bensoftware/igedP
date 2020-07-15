@@ -23,7 +23,7 @@
           <div class="img" style="background-image: url({{URL::asset('public/images/course-5.jpg')}});"></div>
           <div class="text pt-4">
             <h3><a href="#">EDUCATEUR PETITE ENFANCE</a></h3>
-            <p><strong>DEBOUCHES</strong>:Auxiliaire ou agent de crèche,Aide-Educateur(trice).</p>
+            <p><strong>DEBOUCHES</strong>:Auxiliaire ou Agent de crèche.</p>
             <div class="btn-group" role="group" aria-label="Basic example">
                 <p><a href="{{url('/educateur-petite-enfance')}}" class="btn btn-primary">Lire la suite</a></p>
                 <p><a href="{{route('postuler.edit',"EDUCATEUR PETITE ENFANCE")}}" class="btn btn-primary">Postuler</a></p>
@@ -35,8 +35,7 @@
           <div class="text pt-4">
             <h3><a href="{{url('/patisserie')}}">PATISSERIE</a></h3>
             <p>
-            <strong>DEBOUCHES</strong>:Pâtissier,Boulangerie-pâtisserier dans
-            L’hôtellerie,restauration....
+            <strong>DEBOUCHES</strong>:Pâtissier,Boulangerie-pâtisserier.
             </p>
             <div class="btn-group" role="group" aria-label="Basic example">
               <p><a href="{{url('/patisserie')}}" class="btn btn-primary">Lire la suite</a></p>
@@ -62,7 +61,7 @@
           <div class="text pt-4">
             <h3><a href="#">CUISINE PROFESSIONELLE</a></h3>
             <p>
-            <strong>DEBOUCHES</strong>:Chef cuisnier,aide cuisnier dans l'hotellerie...
+            <strong>DEBOUCHES</strong>:Chef cuisnier,aide cuisnier dans l'hotellerie.
             </p>
             <div class="btn-group" role="group" aria-label="Basic example">
               <p><a href="{{url('/cuisine')}}" class="btn btn-primary">Lire la suite</a></p>

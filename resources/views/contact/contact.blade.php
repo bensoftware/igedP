@@ -32,14 +32,14 @@
         <div class="col-md-3 d-flex">
           <div class="bg-light align-self-stretch box p-4 text-center">
             <h3 class="mb-4">Adresse Electronique</h3>
-            <p><a href="groupedescartes@gmail.com">groupedescartes@gmail.com</a></p>
+            <p><a href="">groupedescartes@gmail.com</a></p>
           </div>
         </div>
         <div class="col-md-3 d-flex">
           <div class="bg-light align-self-stretch box p-4 text-center">
             <h3 class="mb-4">Site Web</h3>
             <p><a
-                href="http://iged.mr/iged/s">http://iged.mr/iged/</a>
+                href="http://iged.mr">http://iged.mr</a>
             </p>
           </div>
         </div>

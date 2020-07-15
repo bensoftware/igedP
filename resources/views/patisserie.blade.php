@@ -41,7 +41,7 @@
                 <strong>TEMPS :</strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  En cours du jour ou du soir.
+                  Formation en alternance,cours du jour ou du soir.
               </p>
 
               <!-- Item post -->
@@ -78,7 +78,7 @@
                 <strong>L'ÂGE :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  Âge maximum : Avoir <strong>16 ans</strong> minimum au moment de l'inscription et <strong>18 ans</strong> l'année de l'examen 25 ans maximum.
+                  Âge requis : Avoir <strong>16 ans</strong> minimum au moment de l'inscription et <strong>18 ans</strong> l'année de l'examen 25 ans maximum.
                   </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
