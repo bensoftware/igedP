@@ -17,15 +17,14 @@
           <h2 style="color: white;">
             Mail:
           </h2>
-          <p>	groupedescartes@gmail.com</p>
+          <p>groupedescartes@gmail.com</p>
         </span>
       </div>
       <div class="right-topbar">
-        <a href="https://web.facebook.com/InstitutGED">
+        <a href="https://web.facebook.com/InstitutGED" target="_blank">
           <span class="fab fa-facebook-f"></span>
         </a>
       </div>
-
     </div>
   </div>
 
@@ -55,7 +54,6 @@
       <a href="{{url('/')}}"><img src="{{URL::asset('public/images/images/banner-01.jpg')}}" alt="IMG"></a>
     </div>
   </div>
-
   <!--  -->
   <div class="wrap-main-nav">
     <div class="main-nav">

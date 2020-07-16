@@ -36,13 +36,13 @@
 				</div>
 
 				  <div class="col-md-3 course ftco-animate">
-					  <div class="img" style="background-image:url({{URL::asset('public/images/programmation.jpg')}});"></div>
+					  <div class="img" style="background-image:url({{URL::asset('public/images/programmations.jpg')}});"></div>
 					  <div class="text pt-4">
 						  <h3><a href="#">PROGRAMMATION </a></h3>
 						  <p><strong>DEBOUCHES</strong>:Développeur  d'application web,Responsable de services applicatifs...
 						  </p>
               <div class="btn-group" role="group" aria-label="Basic example">
-                <p><a href="{{url('/')}}" class="btn btn-primary">Lire la suite</a></p>
+                <p><a href="{{url('/programmation')}}" class="btn btn-primary">Lire la suite</a></p>
                   <p><a href="{{route('postuler.edit',"PROGRAMMATION")}}" class="btn btn-primary">Postuler</a></p>
               </div>
 					  </div>

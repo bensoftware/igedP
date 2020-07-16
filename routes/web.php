@@ -15,6 +15,33 @@ use App\postuler;
 Route::resource('/postuler','PostulerController');
 Route::resource('/abonement','AbonementController');
 
+
+Route::get('/programmation',function (){
+    return view('programmation');
+});
+
+Route::get('/assistante-maternelle',function (){
+    return view('assistante_maternelle');
+});
+
+Route::get('/anglais', function (){
+    return view('english');
+});
+
+Route::get('/français', function (){
+    return view('french');
+});
+
+Route::get('/arabe', function (){
+    return view('arabic');
+});
+
+
+
+Route::get('/comptabilite', function (){
+    return view('comptabilite');
+});
+
 Route::get('/infographie', function (){
     return view('infographie');
 });

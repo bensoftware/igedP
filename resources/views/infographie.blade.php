@@ -114,14 +114,16 @@
                     <p><script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&amp;version=v4.0&amp;appId=1883542155062259&amp;autoLogAppEvents=1">
                        </script>
                     </p>
-                    <div class="fb-page fb_iframe_widget" data-href="https://www.facebook.com/ISPP.Officiel/"
+                    <div class="fb-page fb_iframe_widget" data-href="https://web.facebook.com/InstitutGED/"
                      data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true"
                      data-hide-cover="false" data-show-facepile="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="adapt_container_width=true&amp;
                      app_id=1883542155062259&amp;container_width=0&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2FISPP.Officiel%2F&amp;
                      locale=fr_FR&amp;sdk=joey&amp;show_facepile=true&amp;small_header=false&amp;tabs=timeline">
                      <span style="vertical-align: bottom; width: 340px; height: 500px;">
                       <iframe name="f172ce99a08ce1" width="1000px" height="1000px" data-testid="fb:page Facebook Social Plugin" title="fb:page Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no"
-                      allow="encrypted-media" src="https://www.facebook.com/v4.0/plugins/page.php?adapt_container_width=true&amp;app_id=1883542155062259&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df123b785a5ec784%26domain%3Dispp-edu.com%26origin%3Dhttp%253A%252F%252Fispp-edu.com%252Ff6a7533d3cc43%26relation%3Dparent.parent&amp;container_width=0&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2FISPP.Officiel%2F&amp;locale=fr_FR&amp;sdk=joey&amp;show_facepile=true&amp;small_header=false&amp;tabs=timeline" style="border: none; visibility: visible; width: 340px; height: 500px;" class=""></iframe></span></div>
+                      allow="encrypted-media" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fweb.facebook.com%2FInstitutGED&tabs=timeline&width=0&height=0&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+                      style="border: none; visibility: visible; width: 340px; height: 500px;" class=""></iframe></span>
+                    </div>
                             </div>
                         </div>
                     </div>

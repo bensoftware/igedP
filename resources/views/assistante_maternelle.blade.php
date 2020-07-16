@@ -14,29 +14,27 @@
 						<div class="tab01 p-b-20">
                             <div class="how2 how2-cl4 flex-s-c m-b-35">
                                 <h3 class="f1-m-2 cl3 tab01-title">
-									Hôtesse de l’air / Steward
+									ASSISTANTE MATERNELLE
                                 </h3>
                             </div>
-
                             <div >
-                                  <img width="685" height="400" src="{{URL::asset('public/images/hotesse.jpg')}}">
+                                <img width="685" height="400"  src="{{URL::asset('public/images/petiteenfance.jpg')}}">
                             </div>
                              <!--Space-->
                             <div style="margin-bottom:5px">
                             </div>
 							<h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
 							</h1>
+
 							<div>
 								<h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
 									<strong>DESCRIPTION:</strong>
 								</h1>
+
 								<p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  L’hôtesse de l'air et le steward sont des personnels navigants commerciaux (PNC).
-                  Ils veillent au bien-être et à la sécurité des
-                  passagers, sous la responsabilité du commandant de bord.
-                  Durant le vol, ils rappellent aux voyageurs le respect des consignes de sécurité
-                  et leur présentent les équipements de sauvetage.
-								</p>
+                Un(e) assistant(e) maternelle un(e) professionnel(le) de l'accueil et de la garde des enfants de moins de 6 ans.
+                Soucieux de répondre à leurs besoins fondamentaux, le titulaire du Certificat d'Aptitude Professionnel Accompagnant éducatif petite enfance réalise des activités de soins quotidiens (préparation de repas, soins d'hygiène) et des activités d'éveil
+                contribuant au développement affectif et intellectuel et à l'autonomie des enfants de moins de 6 ans.
 								<h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
 									 <strong>TEMPS : </strong>
 								</h1>
@@ -49,42 +47,24 @@
 								    <strong>CONDITIONS D'ADMISSION :</strong>
 									</h1>
 									<p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                    •	Niveau Bac ou équivalent et Baccalauréat ou plus</br>
-                    •	Age entre 18 ans et 27 ans</br>
-                    •	Avoir un niveau d’anglais et français général permettant de dialoguer et d’utiliser les documents sans difficulté particulière</br>
-                    •	Critères physiques : 1,60 m à 1,78 m pour les filles / 1,70 m à 1,86 m pour les garçons </br>
-                    •	Poids en proportion avec la taille </br>
-                    •	Aucune marque visible </br>
-                    •	Savoir nager </br>
-                    •	Visite médicale CEMPN </br>
-                    •	Entretien de sélection (avant inscription au Groupe CFPNC)</br>
+                    • Vous avez travaillé au moins 5 ans;</br>
+                    • Vous voulez continuer à étudier pour booster votre carrière.
 									</p>
 									<h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
 										<strong>DEBOUCHES :	</strong>
 									</h1>
 									<p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                        Hôtesse de l’air / Steward
-									</p>
-
-									<h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-										<strong>DIPLÔME DE SORTIE :</strong>
-									</h1>
-									<p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-										BTS
-									</p>
-
-									<h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-										<strong>DUREEE DE LA FORMATION : </strong>
-									</h1>
-                  <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-										21 Mois
-									</p>
-
+                    <p>Le titulaire du CAP Accompagnant Educatif Petite Enfance peut exercer : </p>
+                     •	En établissements d’accueil du jeune enfant (EAJE)</br>
+                     •	En crèches collectives ;</br>
+                     •	En haltes garderies ;</br>
+                     •	En jardins d’enfants ;</br>
+                     •	En école maternelle.</br>
+									</p></br>
               </div>
 						</div>
 					</div>
 				</div>
-
 
 				<div class="col-md-10 col-lg-4">
 					<div class="p-l-10 p-rl-0-sr991 p-b-20">
@@ -93,7 +73,6 @@
                                CONTACT
                             </h3>
                           </div>
-
                             <div class="wpb_text_column wpb_content_element ">
                                 <div class="wpb_wrapper">
                                     <div class="contact-info">
@@ -126,6 +105,7 @@
                       <p><script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&amp;version=v4.0&amp;appId=1883542155062259&amp;autoLogAppEvents=1">
                          </script>
                       </p>
+
                       <div class="fb-page fb_iframe_widget" data-href="https://web.facebook.com/InstitutGED/"
                        data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true"
                        data-hide-cover="false" data-show-facepile="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="adapt_container_width=true&amp;

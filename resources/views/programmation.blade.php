@@ -1,5 +1,3 @@
-
-
 @extends('layout')
 @section('page-title')
     IGED
@@ -13,14 +11,14 @@
         <div class="p-b-20">
                        <!-- Business -->
           <div class="tab01 p-b-20">
-                          <div class="how2 how2-cl4 flex-s-c m-b-35">
+                          <div class="how2 how2-cl4  flex-s-c m-b-35">
                               <h3 class="f1-m-2 cl3 tab01-title">
-                CUISINE
+                                             Programmation
+                                             Web et Mobile
                               </h3>
                           </div>
-
                           <div >
-                              <img width="685" height="400" src="{{URL::asset('public/images/plombier.jpg')}}">
+                              <img width="685" height="400" src="{{URL::asset('public/images/programmations.jpg')}}">
                           </div>
                            <!--Space-->
                           <div style="margin-bottom:5px">
@@ -33,55 +31,51 @@
                 <strong>DESCRIPTION:  </strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-              Plombier
+              Employé d’une société prestataire de services informatiques ou au sein du département informatique d’une entreprises,
+              le programmeur est tenu d’étudier les besoins techniques des clients et de leur offrir des solutions personnalisées sous
+              forme de programmes. Réalisant un cahier d’analyses et des charges avant la rédaction des lignes de codes, il effectue son
+              travail dans différents environnements de programmation : Java, C,Html,Css Php Android,etc...,s’il s’agit d’un développement spécial,
+              il est amené à utiliser d’autres logiciels. En général, dans les grandes entreprises le programmeur travaille sur une partie
+              bien définie du logiciel, que l’équipe entière teste en émettant de stricts points de vue avant la mise sur le marché.
               </p>
 
               <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                 <strong>TEMPS :</strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  En cours du jour ou du soir.
+                  Formation en alternance,cours du jour ou du soir.
               </p>
-
 
               <!-- Item post -->
                   <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                  <strong>DIPLÔME DE BASE :</strong>
+                  <strong>CONDITIONS D'ADMISSION :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  Aucun diplôme n'est exigé!
-                  Un niveau Scolaire 3ème est préférable, mais tout le monde peut s'inscrire.
+                  BAC.
                 </p>
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DEBOUCHES :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  PATISSIER
+                 • Chef de projet informatique ;</br>
+                 • Développeur et concepteur web ;</br>
+                 • Web designer;</br>
+                 • Consultant SEO ou référenceur web ;</br>
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DIPLÔME DE SORTIE :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  CAP PATISSERIE.
+                  BTS en Programmation.
                 </p>
-
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DUREEE DE LA FORMATION :</strong>
                 </h1>
-
-                                  <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  Le contenu de la formation CAP Pâtissierse fait en 1 ou 2 ans au choix (sous certaines conditions).
-                  Sous certaines conditions, vous pouvez condenser les cours pour vous présenter à l'examen au bout d'une durée de 12 mois (voir moins) !
-                </p>
-
-                <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                <strong>L'ÂGE :</strong>
-                </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  Âge maximum : Avoir <strong>16 ans</strong> minimum au moment de l'inscription et <strong>18 ans</strong> l'année de l'examen 25 ans maximum.
-                  </p>
+                    Trois ans,soit six sessions
+                </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                 <strong>RYTHME:</strong>
@@ -94,7 +88,6 @@
         </div>
       </div>
 
-
       <div class="col-md-10 col-lg-4">
         <div class="p-l-10 p-rl-0-sr991 p-b-20">
                       <div class="how2 how2-cl4 flex-s-c m-b-35">
@@ -102,7 +95,6 @@
                              CONTACT
                           </h3>
                         </div>
-
                           <div class="wpb_text_column wpb_content_element ">
                               <div class="wpb_wrapper">
                                   <div class="contact-info">
@@ -128,13 +120,13 @@
                                 <div id="fb-root" class=" fb_reset">
                                     <div style="position: absolute; top: -10000px; width: 0px; height: 0px;">
                                       <div>
-
                                       </div>
                                   </div>
                               </div>
                     <p><script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&amp;version=v4.0&amp;appId=1883542155062259&amp;autoLogAppEvents=1">
                        </script>
                     </p>
+
                     <div class="fb-page fb_iframe_widget" data-href="https://web.facebook.com/InstitutGED/"
                      data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true"
                      data-hide-cover="false" data-show-facepile="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="adapt_container_width=true&amp;

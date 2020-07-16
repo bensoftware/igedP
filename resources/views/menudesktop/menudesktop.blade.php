@@ -42,9 +42,9 @@
 							<ul class="sub-menu">
 								<li><a href="">LANGUE</a>
 									<ul class="sub-menu">
-										<li><a href="">ANGLAIS </a></li>
-										<li><a href="">ARABE</a></li>
-										<li><a href="">FRANÇAIS</a></li>
+										<li><a href="{{url('/anglais')}}">ANGLAIS </a></li>
+										<li><a href="{{url('/arabe')}}">ARABE</a></li>
+										<li><a href="{{url('/français')}}">FRANÇAIS</a></li>
 									</ul>
 								</li>
 								<li><a href="">INFORMATIQUE</a>

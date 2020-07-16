@@ -4,7 +4,6 @@
     IGED
 @endsection
 @section('page-content')
-
 <section class="hero-wrap hero-wrap-2" style="background-image: url({{URL::asset('public/images/bg_1.jpg')}});">
 <div class="overlay"></div>
 <div class="container">
@@ -24,23 +23,24 @@
           <div class="img" style="background-image: url({{URL::asset('public/images/course-5.jpg')}});"></div>
           <div class="text pt-4">
             <h3><a href="#">EDUCATEUR PETITE ENFANCE</a></h3>
-            <p><strong>DEBOUCHES</strong>:Auxiliaire ou agent de crèche,Aide-Educateur(trice). </p>
-        <div class="btn-group" role="group" aria-label="Basic example">
+            <p><strong>DEBOUCHES</strong>:Agent de crèche, Aide-Educateur(trice)</p>
+          <div class="btn-group" role="group" aria-label="Basic example">
             <p><a href="{{url('/educateur-petite-enfance')}}" class="btn btn-primary">Lire la suite</a></p>
             <p><a href="{{route('postuler.edit',"EDUCATEUR PETITE ENFANCE")}}" class="btn btn-primary">Postuler</a></p>
-        </div>
+          </div>
           </div>
         </div>
+
         <div class="col-md-3 course ftco-animate">
           <div class="img" style="background-image: url({{URL::asset('public/images/course-6.jpg')}});"></div>
           <div class="text pt-4">
             <h3><a href="">COMPTABILITE</a></h3>
             <p>
-            <strong>DEBOUCHES</strong>:COMPTABLE ....
+            <strong>DEBOUCHES</strong>:Comptable, Aide-comptable, Assistant & Financier
             </p>
               <div class="btn-group" role="group" aria-label="Basic example">
-            <p><a href="{{url('/patisserie')}}" class="btn btn-primary">Lire la suite</a></p>
-          <p><a href="{{route('postuler.edit',"COMPTABLE")}}" class="btn btn-primary">Postuler</a></p>
+            <p><a href="{{url('/comptabilite')}}" class="btn btn-primary">Lire la suite</a></p>
+          <p><a href="{{route('postuler.edit',"comptabilite")}}" class="btn btn-primary">Postuler</a></p>
             </div>
           </div>
         </div>
@@ -49,10 +49,10 @@
           <div class="text pt-4">
             <h3><a href="#">ASSISTANTE MATERNELLE</a></h3>
             <p>
-            <strong>DEBOUCHES</strong>:..................................................
+            <strong>DEBOUCHES</strong>:Agent de crèche, Aide-Educateur(trice)
             </p>
           <div class="btn-group" role="group" aria-label="Basic example">
-            <p><a href="#" class="btn btn-primary">Lire la suite</a></p>
+            <p><a href="{{url('/assistante-maternelle')}}" class="btn btn-primary">Lire la suite</a></p>
               <p><a href="{{route('postuler.edit',"ASSISTANTE MATERNELLE")}}" class="btn btn-primary">Postuler</a></p>
           </div>
           </div>
@@ -60,5 +60,4 @@
       </div>
     </div>
   </section>
-
 @endsection

@@ -15,12 +15,11 @@
           <div class="tab01 p-b-20">
                           <div class="how2 how2-cl4 flex-s-c m-b-35">
                               <h3 class="f1-m-2 cl3 tab01-title">
-                CUISINE
+                                            COMPTABILITE
                               </h3>
                           </div>
-
                           <div >
-                              <img width="685" height="400" src="{{URL::asset('public/images/plombier.jpg')}}">
+                              <img width="685" height="400" src="{{URL::asset('public/images/comptabilite.jpg')}}">
                           </div>
                            <!--Space-->
                           <div style="margin-bottom:5px">
@@ -33,55 +32,26 @@
                 <strong>DESCRIPTION:  </strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-              Plombier
+              Les comptables sont des professionnels dont ont besoin toutes les entreprises. Leur rôle est de répertorier,
+              classer, mais surtout d’analyser les rentrées et sorties d’argents des sociétés pour lesquelles ils travaillent.
               </p>
 
               <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                 <strong>TEMPS :</strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  En cours du jour ou du soir.
+                  Formation en alternance,cours du jour ou du soir.
               </p>
 
-
-              <!-- Item post -->
-                  <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                  <strong>DIPLÔME DE BASE :</strong>
-                </h1>
-                <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  Aucun diplôme n'est exigé!
-                  Un niveau Scolaire 3ème est préférable, mais tout le monde peut s'inscrire.
-                </p>
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DEBOUCHES :</strong>
                 </h1>
+
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  PATISSIER
+                  •	Aide-comptable
+                  •	Comptable
+                  •	Assistant & Financier
                 </p>
-
-                <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                  <strong>DIPLÔME DE SORTIE :</strong>
-                </h1>
-                <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  CAP PATISSERIE.
-                </p>
-
-
-                <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                  <strong>DUREEE DE LA FORMATION :</strong>
-                </h1>
-
-                                  <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  Le contenu de la formation CAP Pâtissierse fait en 1 ou 2 ans au choix (sous certaines conditions).
-                  Sous certaines conditions, vous pouvez condenser les cours pour vous présenter à l'examen au bout d'une durée de 12 mois (voir moins) !
-                </p>
-
-                <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                <strong>L'ÂGE :</strong>
-                </h1>
-                <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  Âge maximum : Avoir <strong>16 ans</strong> minimum au moment de l'inscription et <strong>18 ans</strong> l'année de l'examen 25 ans maximum.
-                  </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                 <strong>RYTHME:</strong>
@@ -135,6 +105,7 @@
                     <p><script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&amp;version=v4.0&amp;appId=1883542155062259&amp;autoLogAppEvents=1">
                        </script>
                     </p>
+                    
                     <div class="fb-page fb_iframe_widget" data-href="https://web.facebook.com/InstitutGED/"
                      data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true"
                      data-hide-cover="false" data-show-facepile="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="adapt_container_width=true&amp;
