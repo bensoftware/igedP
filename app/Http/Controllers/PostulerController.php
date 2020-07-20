@@ -55,9 +55,12 @@ class PostulerController extends Controller
      * @param  \App\postuler  $postuler
      * @return \Illuminate\Http\Response
      */
-    public function show(postuler $postuler)
-    {
+    public function show(postuler $postuler){
         //
+  }
+  
+    public function montre($filliere,$diplome){
+        return view('postule',compact('filliere','diplome'));
     }
 
     /**
@@ -68,6 +71,7 @@ class PostulerController extends Controller
      */
     public function edit($filliere){
         $diplome="null";
+        $filliere="null";
         return view('postule',compact('filliere','diplome'));
     }
 

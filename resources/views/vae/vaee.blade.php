@@ -26,7 +26,8 @@
             <p><strong>DEBOUCHES</strong>:Agent de crèche, Aide-Educateur(trice)</p>
           <div class="btn-group" role="group" aria-label="Basic example">
             <p><a href="{{url('/educateur-petite-enfance')}}" class="btn btn-primary">Lire la suite</a></p>
-            <p><a href="{{route('postuler.edit',"EDUCATEUR PETITE ENFANCE")}}" class="btn btn-primary">Postuler</a></p>
+            <?php  $filliere='EDUCATEUR PETITE ENFANCE';$diplome='VAE'; ?>
+              <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
           </div>
           </div>
         </div>
@@ -40,7 +41,8 @@
             </p>
               <div class="btn-group" role="group" aria-label="Basic example">
             <p><a href="{{url('/comptabilite')}}" class="btn btn-primary">Lire la suite</a></p>
-          <p><a href="{{route('postuler.edit',"comptabilite")}}" class="btn btn-primary">Postuler</a></p>
+             <?php  $filliere='COMPTABILITE';$diplome='VAE'; ?>
+              <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
             </div>
           </div>
         </div>
@@ -53,7 +55,8 @@
             </p>
           <div class="btn-group" role="group" aria-label="Basic example">
             <p><a href="{{url('/assistante-maternelle')}}" class="btn btn-primary">Lire la suite</a></p>
-              <p><a href="{{route('postuler.edit',"ASSISTANTE MATERNELLE")}}" class="btn btn-primary">Postuler</a></p>
+            <?php  $filliere='ASSISTANTE MATERNELLE';$diplome='VAE'; ?>
+             <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
           </div>
           </div>
         </div>

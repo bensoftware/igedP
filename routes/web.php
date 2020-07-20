@@ -15,6 +15,12 @@ use App\postuler;
 Route::resource('/postuler','PostulerController');
 Route::resource('/abonement','AbonementController');
 
+Route::get('/postuler/{filliere}/{diplome}','PostulerController@montre')->name('postuler.montre');
+
+
+Route::get('/plomberie',function (){
+    return view('plomberie');
+});
 
 Route::get('/programmation',function (){
     return view('programmation');

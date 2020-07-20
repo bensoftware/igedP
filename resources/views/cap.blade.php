@@ -26,7 +26,8 @@
             <p><strong>DEBOUCHES</strong>:Auxiliaire ou Agent de crèche.</p>
             <div class="btn-group" role="group" aria-label="Basic example">
                 <p><a href="{{url('/educateur-petite-enfance')}}" class="btn btn-primary">Lire la suite</a></p>
-                <p><a href="{{route('postuler.edit',"EDUCATEUR PETITE ENFANCE")}}" class="btn btn-primary">Postuler</a></p>
+                <?php  $filliere='EDUCATEUR PETITE ENFANCE';$diplome='CAP'; ?>
+                <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
             </div>
           </div>
         </div>
@@ -39,7 +40,8 @@
             </p>
             <div class="btn-group" role="group" aria-label="Basic example">
               <p><a href="{{url('/patisserie')}}" class="btn btn-primary">Lire la suite</a></p>
-              <p><a href="{{route('postuler.edit',"PATISSERIE")}}" class="btn btn-primary">Postuler</a></p>
+              <?php  $filliere='PATISSERIE';$diplome='CAP'; ?>
+              <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
             </div>
           </div>
         </div>
@@ -52,7 +54,8 @@
             </p>
             <div class="btn-group" role="group" aria-label="Basic example">
               <p><a href="{{url('/plomberie')}}" class="btn btn-primary">Lire la suite</a></p>
-              <p><a href="{{route('postuler.edit',"PLOMBERIE")}}" class="btn btn-primary">Postuler</a></p>
+              <?php  $filliere='PLOMBERIE';$diplome='CAP'; ?>
+              <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
             </div>
           </div>
         </div>
@@ -65,7 +68,8 @@
             </p>
             <div class="btn-group" role="group" aria-label="Basic example">
               <p><a href="{{url('/cuisine')}}" class="btn btn-primary">Lire la suite</a></p>
-                <p><a href="{{route('postuler.edit',"CUISINE PROFESSIONELLE")}}" class="btn btn-primary">Postuler</a></p>
+              <?php  $filliere='CUISINE PROFESSIONELLE';$diplome='CAP'; ?>
+              <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
             </div>
           </div>
         </div>

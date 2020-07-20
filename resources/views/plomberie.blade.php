@@ -33,7 +33,8 @@
                 <strong>DESCRIPTION:  </strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-              Plombier
+               Le plombier monte, répare et entretient les canalisations d'eau et en aval des appareils eux-mêmes.
+               Il effectue aussi la pose et la réparation des appareils sanitaires : baignoire, chauffe-eau, compteur, robinetterie.
               </p>
 
               <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
@@ -43,20 +44,19 @@
                   En cours du jour ou du soir.
               </p>
 
-
               <!-- Item post -->
                   <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                  <strong>DIPLÔME DE BASE :</strong>
+                  <strong>PRÉ-REQUIS :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  Aucun diplôme n'est exigé!
-                  Un niveau Scolaire 3ème est préférable, mais tout le monde peut s'inscrire.
+                Le métier de plombier nécessite une bonne condition physique car ce dernier opère souvent dans des postures inconfortables
+                et il transporte et manipule parfois des charges lourdes.
                 </p>
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DEBOUCHES :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  PATISSIER
+                  PLOMBIER
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
@@ -66,22 +66,13 @@
                   CAP PATISSERIE.
                 </p>
 
-
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DUREEE DE LA FORMATION :</strong>
                 </h1>
 
                                   <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  Le contenu de la formation CAP Pâtissierse fait en 1 ou 2 ans au choix (sous certaines conditions).
-                  Sous certaines conditions, vous pouvez condenser les cours pour vous présenter à l'examen au bout d'une durée de 12 mois (voir moins) !
+                  10 mois.
                 </p>
-
-                <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                <strong>L'ÂGE :</strong>
-                </h1>
-                <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  Âge maximum : Avoir <strong>16 ans</strong> minimum au moment de l'inscription et <strong>18 ans</strong> l'année de l'examen 25 ans maximum.
-                  </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                 <strong>RYTHME:</strong>
@@ -89,11 +80,10 @@
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
                 Permet de concilier vos études avec votre vie personnelle et professionnelle. Parfait pour la reconversion professionnelle.
                  </p>
-                          </div>
+              </div>
           </div>
         </div>
       </div>
-
 
       <div class="col-md-10 col-lg-4">
         <div class="p-l-10 p-rl-0-sr991 p-b-20">

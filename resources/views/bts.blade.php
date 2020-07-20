@@ -1,10 +1,8 @@
-
 @extends('layout')
 @section('page-title')
     IGED
 @endsection
 @section('page-content')
-
 <section class="hero-wrap hero-wrap-2" style="background-image: url({{URL::asset('public/images/bg_1.jpg')}});">
 <div class="overlay"></div>
 <div class="container">
@@ -30,7 +28,8 @@
 						</p>
             <div class="btn-group" role="group" aria-label="Basic example">
               <p><a href="{{url('/')}}" class="btn btn-primary">Lire la suite</a></p>
-                <p><a href="{{route('postuler.edit',"MULTIMEDIA")}}" class="btn btn-primary">Postuler</a></p>
+              <?php  $filliere='MULTTIMEDIA';$diplome='bts'; ?>
+                <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
             </div>
 					</div>
 				</div>
@@ -43,7 +42,8 @@
 						  </p>
               <div class="btn-group" role="group" aria-label="Basic example">
                 <p><a href="{{url('/programmation')}}" class="btn btn-primary">Lire la suite</a></p>
-                  <p><a href="{{route('postuler.edit',"PROGRAMMATION")}}" class="btn btn-primary">Postuler</a></p>
+                <?php  $filliere='PROGRAMMATION';$diplome='BTS'; ?>
+                  <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
               </div>
 					  </div>
 				  </div>
@@ -55,7 +55,8 @@
 						  <p><strong>DEBOUCHES</strong>....</p>
               <div class="btn-group" role="group" aria-label="Basic example">
                 <p><a href="{{url('/')}}" class="btn btn-primary">Lire la suite</a></p>
-                  <p><a href="{{route('postuler.edit',"LOGISTIQUE ET PILOTAGE DES FLUX")}}" class="btn btn-primary">Postuler</a></p>
+                <?php  $filliere='LOGISTIQUE/PILOTAGE DES FLUX';$diplome='BTS'; ?>
+                  <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
               </div>
 					  </div>
 				  </div>
@@ -69,7 +70,8 @@
 						  </p>
               <div class="btn-group" role="group" aria-label="Basic example">
                 <p><a href="{{url('/infographie')}}" class="btn btn-primary">Lire la suite</a></p>
-                  <p><a href="{{route('postuler.edit',"INFOGRAPHIE")}}" class="btn btn-primary">Postuler</a></p>
+                <?php  $filliere='INFOGRAPHIE';$diplome='BTS'; ?>
+                  <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
               </div>
 					  </div>
 				  </div>
@@ -81,7 +83,8 @@
 						  <p><strong>DEBOUCHES</strong>:Hotesse de l'aire,Steward</p>
               <div class="btn-group" role="group" aria-label="Basic example">
                 <p><a href="{{url('/hotesse-steward')}}" class="btn btn-primary">Lire la suite</a></p>
-                  <p><a href="{{route('postuler.edit',"INFOGRAPHIE")}}" class="btn btn-primary">Postuler</a></p>
+                <?php  $filliere='TECHNICIEN HOTESSE DE L’AIR ET STEWARD';$diplome='BTS'; ?>
+                  <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
               </div>
             </div>
 				  </div>
