@@ -38,7 +38,7 @@
 						</li>
 
 						<li>
-							<a href="#">SESSION DE FORMATION</a>
+							<a href="#">BOOTCAMP /SESSION DE FORMATION</a>
 							<ul class="sub-menu">
 								<li><a href="">LANGUE</a>
 									<ul class="sub-menu">
