@@ -22,7 +22,6 @@
 					data-scrollax-parent="true">
 					<div class="col-md-8 ftco-animate">
 						<h1>Nous avons choisi l'excellence.</h1>
-
 						<p></p>
 						<p><a href="contact.html" class="btn btn-primary px-4 py-3 mt-3">Contactez Nous</a></p>
 					</div>
@@ -39,7 +38,6 @@
 						<h1 class="mb-4">IGED,C'est une formation professionnelle efficace et concrète orientée métier.
 						</h1>
 						<p cla jss="mb-4"></p>
-
 						<p><a href="contact.html" class="col-md-2 btn btn-primary px-4 py-3 mt-3">Contactez nous</a></p>
 					</div>
 				</div>

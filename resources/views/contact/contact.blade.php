@@ -4,7 +4,8 @@
     IGED
 @endsection
 @section('page-content')
-  <section class="hero-wrap hero-wrap-2" style="background-image: url({{URL::asset('public/images/bg_1.jpg')}});">
+
+  <section class="hero-wrap hero-wrap-2" style="background-image: url({{URL::asset('public/images/banner.jpg')}});">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text align-items-center justify-content-center">
@@ -47,33 +48,19 @@
     </div>
   </section>
 
-<!---
+
   <section class="ftco-section ftco-no-pt ftco-no-pb contact-section">
     <div class="container">
       <div class="row d-flex align-items-stretch no-gutters">
-        <div class="col-md-6 p-4 p-md-5 order-md-last bg-light">
-          <form action="#">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Nom(s)">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Prenom(s)">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Sujet">
-            </div>
-            <div class="form-group">
-              <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
-            </div>
-            <div class="form-group">
-              <input type="submit" value="Envoyer votre message" class="btn btn-primary py-3 px-5">
-            </div>
-          </form>
-        </div>
-        <div class="col-md-6 d-flex align-items-stretch">
-          <div id="map"></div>
+
+        <div class="col-md-12 d-flex align-items-stretch">
+          <div style="width: 100%"><iframe width="100%" height="600"
+            frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+            src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Tevragh%20Zeina%20AT%20258.%20Vers%20Hotel%20EMIRA,Nouakchoot-Mauritanie+(Institut%20du%20Groupe%20Educatif%20Descartes%20)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+          </iframe><a href="http://www.gps.ie/">BenSoftware</a></div>
+
         </div>
       </div>
     </div>
-  </section>   --->
+  </section>
 @endsection

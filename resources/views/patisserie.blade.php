@@ -15,7 +15,7 @@
           <div class="tab01 p-b-20">
                           <div class="how2 how2-cl4 flex-s-c m-b-35">
                               <h3 class="f1-m-2 cl3 tab01-title">
-                                            PATISSERIE/BOULANGERIE
+                                      BOULANGERIE/PATISSERIE
                               </h3>
                           </div>
                           <div >
@@ -45,7 +45,7 @@
               </p>
 
               <!-- Item post -->
-                  <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
+                <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>CONDITIONS D'ADMISSION :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
@@ -56,14 +56,14 @@
                   <strong>DEBOUCHES :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  PATISSIER/BOULANGER
+                  BOULANGER PATISSIER
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DIPLÔME DE SORTIE :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  CAP PATISSERIE/BOULANGERIE.
+                  CAP PATISSERIE BOULANGERIE.
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
@@ -103,13 +103,13 @@
 
                           <div class="wpb_text_column wpb_content_element ">
                               <div class="wpb_wrapper">
-                                  <div class="contact-info">
-                                        <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-map-marker"></i>BP:10  Nouakchoot-Mauritanie</p>
-                                        <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-phone"></i>+222 45 24 63 88</p>
-                                        <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-envelope"></i>groupedescartes@gmail.com</p>
-                                        <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-fax"></i>+222 48 88 55 50</p>
-                                        <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-clock-o"></i> Lundi – Samedi: 8:00 – 18:00</p>
-                                    </div>
+                                <div class="contact-info">
+                                      <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-map-marker"></i>BP:06  Nouakchoot-Mauritanie</p>
+                                      <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-phone"></i>+222 45 24 63 88</p>
+                                      <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-envelope"></i>groupedescartes@gmail.com</p>
+                                      <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-fax"></i>+222 48 88 55 50</p>
+                                      <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-clock-o"></i> Lundi – Samedi: 8:00 – 19:00</p>
+                                  </div>
                                 </div>
                       </div>
                         <!-- -->

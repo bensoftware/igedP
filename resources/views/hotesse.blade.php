@@ -43,14 +43,13 @@
 								<p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
 							       Jour
 								</p>
-
 								<!-- Item post -->
 								    <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
 								    <strong>CONDITIONS D'ADMISSION :</strong>
 									</h1>
 									<p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
                     •	Niveau Bac ou équivalent et Baccalauréat ou plus</br>
-                    •	Age entre 18 ans et 27 ans</br>
+                    •	Avoir entre 18 ans et 27 ans</br>
                     •	Avoir un niveau d’anglais et français général permettant de dialoguer et d’utiliser les documents sans difficulté particulière</br>
                     •	Critères physiques : 1,60 m à 1,78 m pour les filles / 1,70 m à 1,86 m pour les garçons </br>
                     •	Poids en proportion avec la taille </br>
@@ -77,9 +76,8 @@
 										<strong>DUREEE DE LA FORMATION : </strong>
 									</h1>
                   <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-										21 Mois
+										18 Mois
 									</p>
-
               </div>
 						</div>
 					</div>
@@ -97,11 +95,11 @@
                             <div class="wpb_text_column wpb_content_element ">
                                 <div class="wpb_wrapper">
                                     <div class="contact-info">
-                                          <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-map-marker"></i>BP:10  Nouakchoot-Mauritanie</p>
+                                          <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-map-marker"></i>BP:06  Nouakchoot-Mauritanie</p>
                                           <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-phone"></i>+222 45 24 63 88</p>
                                           <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-envelope"></i>groupedescartes@gmail.com</p>
                                           <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-fax"></i>+222 48 88 55 50</p>
-                                          <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-clock-o"></i> Lundi – Samedi: 8:00 – 18:00</p>
+                                          <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-clock-o"></i> Lundi – Samedi: 8:00 – 19:00</p>
                                       </div>
                                   </div>
                         </div>

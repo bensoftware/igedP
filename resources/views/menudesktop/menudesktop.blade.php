@@ -12,14 +12,13 @@
       <ul class="sub-menu">
         <li><a href="{{url('/presentation')}}">PRESENTATION</a></li>
       <!--  <li><a href="{{url('/')}}">ORGANISATION</a></li>
-
         <li><a href="{{url('/news')}}">NEWS</a></li>
         <li><a href="{{url('/')}}">MEDIA</a></li>
         -->
       </ul>
     </li>
     <li>
-							<a href="#">DIPLÔME</a>
+							<a href="#">DIPLOMES</a>
 							<ul class="sub-menu">
 								<li><a href="">NATIONAUX</a>
 									<ul class="sub-menu">

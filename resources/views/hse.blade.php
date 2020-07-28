@@ -15,12 +15,12 @@
           <div class="tab01 p-b-20">
                           <div class="how2 how2-cl4 flex-s-c m-b-35">
                               <h3 class="f1-m-2 cl3 tab01-title">
-                                PLOMBERIE
+                                   QUALITE SANTE ET SECURITE AU TRAVAIL (HSE)
                               </h3>
                           </div>
 
                           <div >
-                              <img width="685" height="400" src="{{URL::asset('public/images/plombier.jpg')}}">
+                              <img width="685" height="400" src="{{URL::asset('public/images/hse.jpg')}}">
                           </div>
                            <!--Space-->
                           <div style="margin-bottom:5px">
@@ -33,8 +33,7 @@
                 <strong>DESCRIPTION:  </strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-               Le plombier monte, répare et entretient les canalisations d'eau et en aval des appareils eux-mêmes.
-               Il effectue aussi la pose et la réparation des appareils sanitaires : baignoire, chauffe-eau, compteur, robinetterie.
+              A definir.
               </p>
 
               <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
@@ -49,21 +48,20 @@
                   <strong>PRÉ-REQUIS :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                Le métier de plombier nécessite une bonne condition physique car ce dernier opère souvent dans des postures inconfortables
-                et il transporte et manipule parfois des charges lourdes.
+                A definir.
                 </p>
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DEBOUCHES :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  PLOMBIER
+                    A definir.
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DIPLÔME DE SORTIE :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  CAP en Plomberie.
+                    A definir.
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
@@ -71,14 +69,14 @@
                 </h1>
 
                                   <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  2 ans.
+                  A definir.
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                 <strong>RYTHME:</strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                Permet de concilier vos études avec votre vie personnelle et professionnelle. Parfait pour la reconversion professionnelle.
+                  A definir.
                  </p>
               </div>
           </div>
@@ -95,13 +93,13 @@
 
                           <div class="wpb_text_column wpb_content_element ">
                               <div class="wpb_wrapper">
-                                <div class="contact-info">
-                                      <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-map-marker"></i>BP:06  Nouakchoot-Mauritanie</p>
-                                      <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-phone"></i>+222 45 24 63 88</p>
-                                      <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-envelope"></i>groupedescartes@gmail.com</p>
-                                      <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-fax"></i>+222 48 88 55 50</p>
-                                      <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-clock-o"></i> Lundi – Samedi: 8:00 – 19:00</p>
-                                  </div>
+                                  <div class="contact-info">
+                                        <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-map-marker"></i>BP:06  Nouakchoot-Mauritanie</p>
+                                        <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-phone"></i>+222 45 24 63 88</p>
+                                        <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-envelope"></i>groupedescartes@gmail.com</p>
+                                        <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-fax"></i>+222 48 88 55 50</p>
+                                        <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-clock-o"></i> Lundi – Samedi: 8:00 – 19:00</p>
+                                    </div>
                                 </div>
                       </div>
                         <!-- -->

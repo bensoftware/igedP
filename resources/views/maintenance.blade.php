@@ -1,5 +1,3 @@
-
-
 @extends('layout')
 @section('page-title')
     IGED
@@ -11,31 +9,32 @@
     <div class="row justify-content-center">
       <div class="col-md-10 col-lg-8">
         <div class="p-b-20">
-                       <!-- Business -->
           <div class="tab01 p-b-20">
                           <div class="how2 how2-cl4 flex-s-c m-b-35">
                               <h3 class="f1-m-2 cl3 tab01-title">
-                                PLOMBERIE
+                                        MAINTENANCE INFORMATIQUE
                               </h3>
                           </div>
-
-                          <div >
-                              <img width="685" height="400" src="{{URL::asset('public/images/plombier.jpg')}}">
+                          <div>
+                              <img width="685" height="400" src="{{URL::asset('public/images/maintenanc.jpg')}}">
                           </div>
                            <!--Space-->
                           <div style="margin-bottom:5px">
                           </div>
             <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
             </h1>
-
             <div>
               <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                 <strong>DESCRIPTION:  </strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-               Le plombier monte, répare et entretient les canalisations d'eau et en aval des appareils eux-mêmes.
-               Il effectue aussi la pose et la réparation des appareils sanitaires : baignoire, chauffe-eau, compteur, robinetterie.
+                Le mantenancier en informatique effectue le dépannage, l'entretien et l'installation d'équipements ou de parcs d'équipements informatiques ou bureautiques (matériels, logiciels, réseaux, ...), selon les règles de sécurité et la réglementation.
+                Peut conseiller, former et assister les utilisateurs (sur site, par télémaintenance, téléassistance, ...).
+                Peut assembler ou intégrer un équipement (configurations standards ou spécifiques, ...).
+                Peut coordonner une équipe.
               </p>
+
+
 
               <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                 <strong>TEMPS :</strong>
@@ -49,27 +48,27 @@
                   <strong>PRÉ-REQUIS :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                Le métier de plombier nécessite une bonne condition physique car ce dernier opère souvent dans des postures inconfortables
-                et il transporte et manipule parfois des charges lourdes.
+                     BAC .
                 </p>
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DEBOUCHES :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  PLOMBIER
+                 •	Technicien   </br>
+                 •  Responsable centre d'appels en maintenance informatique</br>
+                 •  Responsable micro-informatique.
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DIPLÔME DE SORTIE :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  CAP en Plomberie.
+                  BT en Maintenance informatique.
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DUREEE DE LA FORMATION :</strong>
                 </h1>
-
                                   <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
                   2 ans.
                 </p>
@@ -92,7 +91,6 @@
                              CONTACT
                           </h3>
                         </div>
-
                           <div class="wpb_text_column wpb_content_element ">
                               <div class="wpb_wrapper">
                                 <div class="contact-info">

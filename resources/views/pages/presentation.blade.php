@@ -21,7 +21,7 @@
                           </div>
 
                           <div >
-                              <img width="685" height="400" src="http://ispp-edu.com/wp-content/uploads/2019/08/slider-10-10-17c.jpg">
+                              <img width="400" height="400" src="{{url('/public/images/logo.png')}}" >
                           </div>
                            <!--Space-->
                           <div style="margin-bottom:5px">
@@ -118,7 +118,7 @@
                                         <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-phone"></i>+222 45 24 63 88</p>
                                         <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-envelope"></i>groupedescartes@gmail.com</p>
                                         <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-fax"></i>+222 48 88 55 50</p>
-                                        <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-clock-o"></i> Lundi – Samedi: 8:00 – 18:00</p>
+                                        <p class="f1-s-11 cl6 p-b-25"><i class="fa fa-clock-o"></i> Lundi – Samedi: 8:00 – 19:00</p>
                                     </div>
                                 </div>
                       </div>

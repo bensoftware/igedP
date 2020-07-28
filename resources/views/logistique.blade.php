@@ -15,12 +15,11 @@
           <div class="tab01 p-b-20">
                           <div class="how2 how2-cl4 flex-s-c m-b-35">
                               <h3 class="f1-m-2 cl3 tab01-title">
-                                PLOMBERIE
+                                 Gestion des transports et logistique
                               </h3>
                           </div>
-
                           <div >
-                              <img width="685" height="400" src="{{URL::asset('public/images/plombier.jpg')}}">
+                              <img width="685" height="400" src="{{URL::asset('public/images/logistique.jpg')}}">
                           </div>
                            <!--Space-->
                           <div style="margin-bottom:5px">
@@ -33,54 +32,67 @@
                 <strong>DESCRIPTION:  </strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-               Le plombier monte, répare et entretient les canalisations d'eau et en aval des appareils eux-mêmes.
-               Il effectue aussi la pose et la réparation des appareils sanitaires : baignoire, chauffe-eau, compteur, robinetterie.
+                Le titulaire de ce diplôme organise et manage des opérations de transport et des prestations
+                logistiques sur les marchés locaux, régionaux, nationaux, communautaires et internationaux.
+              </p>
+
+              <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
+              Il optimise les opérations dans un contexte de mondialisation des échanges,
+              en tenant compte de la complémentarité des modes de transport et du développement durable.
+              </p>
+
+              <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
+                Il contribue à la mise en œuvre des décisions stratégiques et coordonne des opérations entre les différents
+                services de l'entreprise et/ou avec des partenaires extérieurs.
+              </p>
+
+              <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
+                Dans ce cadre, il a vocation à manager et animer des équipes.
+                Ces activités impliquent de maîtriser des connaissances dans les domaines suivants :
+                les techniques de transport et logistique ; la gestion de parc ;
+                l'ordonnancement des opérations de transport ; les réglementations nationales et internationale
+                 du transport de marchandises ; la gestion commerciale ; la relation avec la clientèle ;
+                le management d'équipes, l'environnement géographique, écologique, économique et institutionnel des
+                activités du transport et de la logistique ; les technologies de l'information et de la communication.
               </p>
 
               <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                 <strong>TEMPS :</strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  En cours du jour ou du soir.
+                  En alternance en cours du jour ou du soir.
               </p>
-
               <!-- Item post -->
                   <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                  <strong>PRÉ-REQUIS :</strong>
+                  <strong>CONDITIONS D'ADMISSION :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                Le métier de plombier nécessite une bonne condition physique car ce dernier opère souvent dans des postures inconfortables
-                et il transporte et manipule parfois des charges lourdes.
+                  Baccalauréat.
                 </p>
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DEBOUCHES :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  PLOMBIER
+                  •Adjoint/e au responsable des réceptions;</br>
+                  •Des expéditions ;</br>
+                  •Adjoint au responsable d'exploitation ;</br>
+                  •Affréteur .</br>
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DIPLÔME DE SORTIE :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  CAP en Plomberie.
+                  BTS en Gestion des transports et logistique.
                 </p>
-
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DUREEE DE LA FORMATION :</strong>
                 </h1>
-
-                                  <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  2 ans.
-                </p>
-
-                <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                <strong>RYTHME:</strong>
-              </h1>
-              <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                Permet de concilier vos études avec votre vie personnelle et professionnelle. Parfait pour la reconversion professionnelle.
+                  <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
+                    2 ans.
                  </p>
-              </div>
+                 
+            </div>
           </div>
         </div>
       </div>
@@ -92,7 +104,6 @@
                              CONTACT
                           </h3>
                         </div>
-
                           <div class="wpb_text_column wpb_content_element ">
                               <div class="wpb_wrapper">
                                 <div class="contact-info">

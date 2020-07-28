@@ -5,12 +5,12 @@
 @endsection
 @section('page-content')
 
-<section class="hero-wrap hero-wrap-2" style="background-image: url({{URL::asset('public/images/bg_1.jpg')}});">
+<section class="hero-wrap hero-wrap-2" style="background-image: url({{URL::asset('public/images/banner.jpg')}});">
 <div class="overlay"></div>
 <div class="container">
   <div class="row no-gutters slider-text align-items-center justify-content-center">
   <div class="col-md-9 ftco-animate text-center">
-      <h1 class="mb-2 bread">DIPLÔME INTERNATIONAL</h1>
+      <h1 class="mb-2 bread">DIPLOME  INTERNATIONAL</h1>
     <h1 class="mb-2 bread">BTS</h1>
     <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Acceuil<i class="ion-ios-arrow-forward"></i></a></span> <span>Bts<i class="ion-ios-arrow-forward"></i></span></p>
   </div>
@@ -29,7 +29,7 @@
 							Développeur multimédia,Web designer,Infographe,Directeur Artistique...
 						</p>
             <div class="btn-group" role="group" aria-label="Basic example">
-              <p><a href="{{url('/')}}" class="btn btn-primary">Lire la suite</a></p>
+              <p><a href="{{url('/multimedia')}}" class="btn btn-primary">Lire la suite</a></p>
               <?php  $filliere='MULTIMEDIA';$diplome='BTS'; ?>
                 <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
             </div>
@@ -99,12 +99,41 @@
 						</a></h3>
 						  <p><strong>DEBOUCHES</strong>:Aide-Educateur(trice)...</p>
               <div class="btn-group" role="group" aria-label="Basic example">
-                <p><a href="{{url('/')}}" class="btn btn-primary">Lire la suite</a></p>
+                <p><a href="{{url('/assistante-maternelle')}}" class="btn btn-primary">Lire la suite</a></p>
                 <?php  $filliere='FORMATION ASSISTANTE MATERNELLE';$diplome='BTS'; ?>
                 <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
               </div>
 					  </div>
 				  </div>
+
+          <div class="col-md-3 course ftco-animate">
+               <div class="img" style="background-image: url({{URL::asset('public/images/hse.jpg')}});"></div>
+               <div class="text pt-4">
+                 <h3><a href="#">QUALITE ET SECURITE AU TRAVAIL
+               </a></h3>
+                 <p><strong>DEBOUCHES</strong>:...</p>
+                  <div class="btn-group" role="group" aria-label="Basic example">
+                    <p><a href="{{url('/diplome/bts/hse')}}" class="btn btn-primary">Lire la suite</a></p>
+                    <?php  $filliere='QUALITE ET SECURITE AU TRAVAIL';$diplome='BTS'; ?>
+                    <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
+                  </div>
+               </div>
+             </div>
+
+          <div class="col-md-3 course ftco-animate">
+           <div class="img" style="background-image: url({{URL::asset('public/images/comptabilite.jpg')}});"></div>
+           <div class="text pt-4">
+             <h3><a href="#">COMPTABILITE
+           </a></h3>
+             <p><strong>DEBOUCHES</strong>:Comptable,Assistant & Financier...</p>
+              <div class="btn-group" role="group" aria-label="Basic example">
+                <p><a href="{{url('/diplome/bts/comptabilite')}}" class="btn btn-primary">Lire la suite</a></p>
+                <?php  $filliere='COMPTABILITE';$diplome='BTS'; ?>
+                <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
+              </div>
+           </div>
+         </div>
+
 			  </div>
 		  </div>
 	  </section>

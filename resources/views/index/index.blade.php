@@ -17,8 +17,7 @@
 
 <section class="home-slider owl-carousel">
 
-
-  <div class="slider-item" style="background-image:url({{URL::asset('public/images/bg_2.jpg')}});">
+  <div class="slider-item" style="background-image:url({{URL::asset('public/images/course-6.jpg')}});">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
@@ -27,7 +26,7 @@
             </h1>
             <p>
                 Accompagnement individuel.</br>
-               	Développement du projet personnel et professionnel.  </br>
+               	Développement du projet personnel et professionnel.</br>
             </p>
         <p><a href="{{url('/contact')}}" class="btn btn-primary px-4 py-3 mt-3">Contactez nous</a></p>
       </div>
@@ -35,7 +34,7 @@
     </div>
   </div>
 
-  <div class="slider-item" style="background-image:url({{URL::asset('public/images/bg_1.jpg')}});">
+  <div class="slider-item" style="background-image:url({{URL::asset('public/images/course-5.jpg')}});">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
@@ -51,7 +50,7 @@
     </div>
   </div>
 
-  <div class="slider-item" style="background-image:url({{URL::asset('public/images/bg_2.jpg')}});">
+  <div class="slider-item" style="background-image:url({{URL::asset('public/images/programmations.jpg')}});">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">

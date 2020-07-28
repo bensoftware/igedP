@@ -14,12 +14,37 @@ use App\postuler;
 
 Route::resource('/postuler','PostulerController');
 Route::resource('/abonement','AbonementController');
-
 Route::get('/postuler/{filliere}/{diplome}','PostulerController@montre')->name('postuler.montre');
 
 
+Route::get('/diplome/bts/logistique', function (){
+    return view('logistique');
+});
+
+
+Route::get('/diplome/bts/hse', function (){
+    return view('hse');
+});
+
+Route::get('/diplôme/bt-national/reseau-informatique', function (){
+    return view('reseau_informatique');
+});
+
+Route::get('/diplome/bt-national/maintenance-informatique', function (){
+    return view('maintenance');
+});
+
+Route::get('/diplome/bts/comptabilite', function (){
+    return view('comptabilite');
+});
+
 Route::get('/plomberie',function (){
     return view('plomberie');
+});
+
+
+Route::get('/multimedia',function (){
+    return view('multimedia');
 });
 
 Route::get('/programmation',function (){

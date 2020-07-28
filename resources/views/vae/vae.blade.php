@@ -42,7 +42,7 @@
                 Temp :
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                    La formation a lieu en <strong>cours du soir </strong>
+                    La formation a lieu en <strong>cours du soir OU DE JOUR </strong>
               </p>
               <!-- Item post -->
                   <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>

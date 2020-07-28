@@ -4,7 +4,7 @@
     IGED
 @endsection
 @section('page-content')
-<section class="hero-wrap hero-wrap-2" style="background-image: url({{URL::asset('public/images/bg_1.jpg')}});">
+<section class="hero-wrap hero-wrap-2" style="background-image: url({{URL::asset('public/images/banner.jpg')}});">
 <div class="overlay"></div>
 <div class="container">
   <div class="row no-gutters slider-text align-items-center justify-content-center">
@@ -19,21 +19,10 @@
 <section class="ftco-section">
     <div class="container-fluid px-4">
       <div class="row">
-        <div class="col-md-3 course ftco-animate">
-          <div class="img" style="background-image: url({{URL::asset('public/images/course-5.jpg')}});"></div>
-          <div class="text pt-4">
-            <h3><a href="#">EDUCATEUR PETITE ENFANCE</a></h3>
-            <p><strong>DEBOUCHES</strong>:Agent de crèche, Aide-Educateur(trice)</p>
-          <div class="btn-group" role="group" aria-label="Basic example">
-            <p><a href="{{url('/educateur-petite-enfance')}}" class="btn btn-primary">Lire la suite</a></p>
-            <?php  $filliere='EDUCATEUR PETITE ENFANCE';$diplome='VAE'; ?>
-              <p><a href="{{route('postuler.montre',['filliere'=>$filliere,'diplome'=>$diplome])}}" class="btn btn-primary">Postuler</a></p>
-          </div>
-          </div>
-        </div>
+
 
         <div class="col-md-3 course ftco-animate">
-          <div class="img" style="background-image: url({{URL::asset('public/images/course-6.jpg')}});"></div>
+          <div class="img" style="background-image: url({{URL::asset('public/images/comptabilite.jpg')}});"></div>
           <div class="text pt-4">
             <h3><a href="">COMPTABILITE</a></h3>
             <p>
@@ -47,7 +36,7 @@
           </div>
         </div>
         <div class="col-md-3 course ftco-animate">
-          <div class="img" style="background-image: url({{URL::asset('public/images/course-8.jpg')}});"></div>
+          <div class="img" style="background-image: url({{URL::asset('public/images/assistatante.jpg')}});"></div>
           <div class="text pt-4">
             <h3><a href="#">ASSISTANTE MATERNELLE</a></h3>
             <p>

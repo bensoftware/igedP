@@ -15,12 +15,12 @@
           <div class="tab01 p-b-20">
                           <div class="how2 how2-cl4 flex-s-c m-b-35">
                               <h3 class="f1-m-2 cl3 tab01-title">
-                                PLOMBERIE
+                                        MULTIMEDIA
                               </h3>
                           </div>
 
                           <div >
-                              <img width="685" height="400" src="{{URL::asset('public/images/plombier.jpg')}}">
+                              <img width="685" height="400" src="{{URL::asset('public/images/multimedia.jpg')}}">
                           </div>
                            <!--Space-->
                           <div style="margin-bottom:5px">
@@ -33,8 +33,13 @@
                 <strong>DESCRIPTION:  </strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-               Le plombier monte, répare et entretient les canalisations d'eau et en aval des appareils eux-mêmes.
-               Il effectue aussi la pose et la réparation des appareils sanitaires : baignoire, chauffe-eau, compteur, robinetterie.
+               Le titulaire de ce diplôme est associé aux activités de communication d'entreprise, de création multimédia, de gestion de réseaux.
+               Il est l'intermédiaire entre les techniciens de l'informatique,
+               des télécommunications et des réseaux et les utilisateurs des outils multimédia (personnel de l'entreprise où il travaille par exemple).
+              </p>
+
+              <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
+                Il participe à toutes les étapes de la conception et du développement des produits multimédias on line (Internet, intranet…) et off line (CD-Rom, bornes interactives…). Grâce à sa maîtrise des outils de production et à sa connaissance des supports (audio, vidéo et papier), ce technicien est l'interlocuteur privilégié des informaticiens et des créatifs. Il exerce son activité dans les services ressources humaines ou communication des grandes entreprises, les services de veille technologique ou de gestion électronique de documents (GED), en agence de communication multimédia ou de production artistique.
               </p>
 
               <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
@@ -49,21 +54,24 @@
                   <strong>PRÉ-REQUIS :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                Le métier de plombier nécessite une bonne condition physique car ce dernier opère souvent dans des postures inconfortables
-                et il transporte et manipule parfois des charges lourdes.
+                     BAC .
                 </p>
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DEBOUCHES :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  PLOMBIER
+                 •	Directeur artistique </br>
+                 •	Webmaster </br>
+                 •	Designer infographiste  </br>
+                 •	Chef de projet web </br>
+                 •	Concepteur multimédia et chef de projet.
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DIPLÔME DE SORTIE :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  CAP en Plomberie.
+                  BTS en MULTIMEDIA.
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
@@ -71,7 +79,7 @@
                 </h1>
 
                                   <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  2 ans.
+                  18 mois.
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>

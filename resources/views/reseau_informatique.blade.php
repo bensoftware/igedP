@@ -1,5 +1,3 @@
-
-
 @extends('layout')
 @section('page-title')
     IGED
@@ -15,12 +13,11 @@
           <div class="tab01 p-b-20">
                           <div class="how2 how2-cl4 flex-s-c m-b-35">
                               <h3 class="f1-m-2 cl3 tab01-title">
-                                PLOMBERIE
+                                RESEAU INFORMATIQUE
                               </h3>
                           </div>
-
                           <div >
-                              <img width="685" height="400" src="{{URL::asset('public/images/plombier.jpg')}}">
+                              <img width="685" height="400" src="{{URL::asset('public/images/reseau.jpg')}}">
                           </div>
                            <!--Space-->
                           <div style="margin-bottom:5px">
@@ -33,57 +30,49 @@
                 <strong>DESCRIPTION:  </strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-               Le plombier monte, répare et entretient les canalisations d'eau et en aval des appareils eux-mêmes.
-               Il effectue aussi la pose et la réparation des appareils sanitaires : baignoire, chauffe-eau, compteur, robinetterie.
-              </p>
+              Le technicien réseau informatique est en charge de la bonne marche du système de télécommunication de son entreprise.
+              Qu'il s'agisse d'acheter de nouveaux matériels informatiques,
+              de sécuriser les connexions Internet ou bien de développer le système interne, le technicien réseaux a de multiples fonctions.
 
               <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                 <strong>TEMPS :</strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  En cours du jour ou du soir.
+                  Cours du jour/soir.
               </p>
-
               <!-- Item post -->
                   <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                  <strong>PRÉ-REQUIS :</strong>
-                </h1>
+                  <strong>CONDITIONS D'ADMISSION :</strong>
+                  </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                Le métier de plombier nécessite une bonne condition physique car ce dernier opère souvent dans des postures inconfortables
-                et il transporte et manipule parfois des charges lourdes.
+                    Niveau BAC ou équivalent.
                 </p>
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DEBOUCHES :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  PLOMBIER
+                  • Responsable d'activité;</br>
+                  • Technicien réseaux.
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DIPLÔME DE SORTIE :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  CAP en Plomberie.
+                  BT en reseau informatique.
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DUREEE DE LA FORMATION :</strong>
                 </h1>
-
                                   <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  2 ans.
+                  18 MOIS
                 </p>
-
-                <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                <strong>RYTHME:</strong>
-              </h1>
-              <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                Permet de concilier vos études avec votre vie personnelle et professionnelle. Parfait pour la reconversion professionnelle.
-                 </p>
-              </div>
+          </div>
           </div>
         </div>
       </div>
+
 
       <div class="col-md-10 col-lg-4">
         <div class="p-l-10 p-rl-0-sr991 p-b-20">
