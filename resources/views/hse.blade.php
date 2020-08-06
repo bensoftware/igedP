@@ -33,7 +33,13 @@
                 <strong>DESCRIPTION:  </strong>
               </h1>
               <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-              A definir.
+                La santé/sécurité est désormais une obligation de résultats pour l&#39;entreprise
+                Améliorer la santé et la sécurité de ses salariés, être dans une démarche de maîtrise des
+                risques professionnels, de protection et de prévention, sont des préoccupations clés des
+                entreprises au-delà des obligations réglementaires. Cette formation apporte des méthodes et
+                des outils incontournables pour réussir ce défi aux managers ou aux personnes désignées
+                pour gérer la santé et la sécurité au sein de l’entreprise de manière opérationnelle, sur le
+                terrain..
               </p>
 
               <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
@@ -48,20 +54,25 @@
                   <strong>PRÉ-REQUIS :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                A definir.
+                  Baccalauréat.
                 </p>
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DEBOUCHES :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                    A definir.
+                  • Technicien HSE / QHSE </br></br>
+                  • Sapeur pompier   </br></br>
+                  • Animateur HSE     </br></br>
+                  • Responsable HSE    </br></br>
+                  • Conseiller / consultant HSE  </br></br>
+                  • Contrôleur / inspecteur HSE.
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
                   <strong>DIPLÔME DE SORTIE :</strong>
                 </h1>
                 <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                    A definir.
+                    BTS en HSE
                 </p>
 
                 <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
@@ -69,15 +80,9 @@
                 </h1>
 
                                   <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  A definir.
+                  2 ans.
                 </p>
 
-                <h1 class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;"> <i class="fa fa-arrow-right"></i>
-                <strong>RYTHME:</strong>
-              </h1>
-              <p class="f1-s-11 cl6 p-b-25" style="text-align: justify;margin-top: auto;">
-                  A definir.
-                 </p>
               </div>
           </div>
         </div>

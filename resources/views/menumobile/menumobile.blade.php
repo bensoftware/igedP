@@ -37,10 +37,11 @@
         <i class="fa fa-angle-right" aria-hidden="true"></i>
       </span>
     </li>
+    -----------------------------------
     <li>
       <a href="{{url('/presentation')}}">PRESENTATION</a>
     </li>
-
+     ---------------------------DIPLOMES
     <li>
       <a href="{{url('/bts-national')}}">BTS</a>
     </li>
@@ -57,6 +58,7 @@
       <a href="{{url('/vae')}}">VAE</a>
     </li>
 
+     ------BOOTCAMP/SESSION DE FORMATION
     <li>
       <a href="{{url('/anglais')}}">ANGLAIS</a>
     </li>
@@ -69,6 +71,7 @@
       <a href="{{url('/arabe')}}">ARABE</a>
     </li>
 
+    -------------------------------------
     <li>
       <a href="{{url('/contact')}}">CONTACT</a>
     </li>

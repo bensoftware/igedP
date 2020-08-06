@@ -108,7 +108,7 @@
                <div class="text pt-4">
                  <h3><a href="#">QUALITE ET SECURITE AU TRAVAIL
                </a></h3>
-                 <p><strong>DEBOUCHES</strong>:...</p>
+                 <p><strong>DEBOUCHES</strong>:Technicien d'hygiène sécurité ...</p>
                   <div class="btn-group" role="group" aria-label="Basic example">
                     <p><a href="{{url('/diplome/bts/hse')}}" class="btn btn-primary">Lire la suite</a></p>
                     <?php  $filliere='QUALITE ET SECURITE AU TRAVAIL';$diplome='BTS'; ?>
