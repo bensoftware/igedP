@@ -70,7 +70,6 @@
              </a>
            </div>
 
-
            <!-- Tab panes -->
            <div class="tab-content p-t-35">
              <!-- - -->

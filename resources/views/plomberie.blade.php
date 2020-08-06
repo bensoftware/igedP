@@ -20,7 +20,7 @@
                           </div>
 
                           <div >
-                              <img width="685" height="400" src="{{URL::asset('public/images/plombier.jpg')}}">
+                              <img width="685" height="400" src="{{URL::asset('public/images/plomberie.jpg')}}">
                           </div>
                            <!--Space-->
                           <div style="margin-bottom:5px">

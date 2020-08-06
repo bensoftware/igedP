@@ -8,7 +8,6 @@
           <h1 style="color: white;">
             Tel :
           </h1>
-
           <p>+222 45 24 63 88 </p>
         </span>
       </div>
@@ -24,21 +23,10 @@
 
 
     <li class="right-topbar">
-      <a href="#">
+      <a href="https://web.facebook.com/InstitutGED/">
         <span class="fab fa-facebook-f"></span>
       </a>
-      <a href="#">
-        <span class="fab fa-twitter"></span>
-      </a>
-      <a href="#">
-        <span class="fab fa-pinterest-p"></span>
-      </a>
-      <a href="#">
-        <span class="fab fa-vimeo-v"></span>
-      </a>
-      <a href="#">
-        <span class="fab fa-youtube"></span>
-      </a>
+
     </li>
   </ul>
 
@@ -54,22 +42,31 @@
     </li>
 
     <li>
-      <a href="{{url('/diplome')}}">BTS</a>
+      <a href="{{url('/bts-national')}}">BTS</a>
     </li>
+
     <li>
-      <a href="{{url('/diplome')}}">CAP</a>
+      <a href="{{url('/cap-national')}}">CAP</a>
     </li>
+
     <li>
-      <a href="{{url('/diplome')}}">BT</a>
+      <a href="{{url('/bt-national')}}">BT</a>
     </li>
+
     <li>
-      <a href="{{url('/diplome')}}">VAE</a>
+      <a href="{{url('/vae')}}">VAE</a>
     </li>
+
     <li>
-      <a href="{{url('/news')}}">NEWS</a>
+      <a href="{{url('/anglais')}}">ANGLAIS</a>
     </li>
+
     <li>
-      <a href="{{url('/about')}}">A PROPOS</a>
+      <a href="{{url('/français')}}">FRANCAIS</a>
+    </li>
+
+    <li>
+      <a href="{{url('/arabe')}}">ARABE</a>
     </li>
 
     <li>

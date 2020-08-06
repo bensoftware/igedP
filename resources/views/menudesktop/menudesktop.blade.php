@@ -7,16 +7,16 @@
     <li class="main-menu-active">
       <a href="{{url('/')}}">ACCEUIL</a>
     </li>
-    <li>
-      <a href="#">IGED</a>
+
+    <li class="main-menu-active">
+      <a href="{{url('/')}}">IGED</a>
       <ul class="sub-menu">
         <li><a href="{{url('/presentation')}}">PRESENTATION</a></li>
-      <!--  <li><a href="{{url('/')}}">ORGANISATION</a></li>
-        <li><a href="{{url('/news')}}">NEWS</a></li>
-        <li><a href="{{url('/')}}">MEDIA</a></li>
-        -->
       </ul>
     </li>
+
+
+
     <li>
 							<a href="#">DIPLOMES</a>
 							<ul class="sub-menu">
@@ -34,9 +34,10 @@
 									</ul>
 								</li>
 							</ul>
-						</li>
+		 </li>
 
-						<li>
+
+		 <li>
 							<a href="#">BOOTCAMP /SESSION DE FORMATION</a>
 							<ul class="sub-menu">
 								<li><a href="">LANGUE</a>
@@ -52,16 +53,8 @@
 									</ul>
 								</li>
 							</ul>
-						</li>
+			</li>
 
-    <li>
-      <a href="#">INFO</a>
-      <ul class="sub-menu">
-          <!--
-        <li><a href="{{url('/about')}}">A PROPOS DE NOUS </a></li>
-        -->
-        <li><a href="{{url('/contact')}}">CONTACT</a></li>
-      </ul>
-    </li>
+      <li><a href="{{url('/contact')}}">CONTACT</a></li>
   </ul>
 </nav>

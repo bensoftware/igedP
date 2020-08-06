@@ -53,7 +53,7 @@
 				  <div class="col-md-3 course ftco-animate">
 					  <div class="img" style="background-image: url({{URL::asset('public/images/logistique.jpg')}});"></div>
 					  <div class="text pt-4">
-						  <h3><a href="#">LOGISTIQUE/PILOTAGE DES FLUX</a></h3>
+						  <h3><a href="#">LOGISTIQUE</a></h3>
 						  <p><strong>DEBOUCHES</strong>....</p>
               <div class="btn-group" role="group" aria-label="Basic example">
                 <p><a href="{{url('/')}}" class="btn btn-primary">Lire la suite</a></p>

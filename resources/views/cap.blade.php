@@ -46,7 +46,7 @@
           </div>
         </div>
         <div class="col-md-3 course ftco-animate">
-          <div class="img" style="background-image: url({{URL::asset('public/images/Plombier.jpg')}});"></div>
+          <div class="img" style="background-image: url({{URL::asset('public/images/plomberie.jpg')}});"></div>
           <div class="text pt-4">
             <h3><a href="#">PLOMBERIE</a></h3>
             <p>
