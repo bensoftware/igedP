@@ -43,15 +43,15 @@
     </li>
      ---------------------------DIPLOMES
     <li>
-      <a href="{{url('/bts-national')}}">BTS</a>
-    </li>
-
-    <li>
       <a href="{{url('/cap-national')}}">CAP</a>
     </li>
 
     <li>
       <a href="{{url('/bt-national')}}">BT</a>
+    </li>
+
+    <li>
+      <a href="{{url('/bts-national')}}">BTS</a>
     </li>
 
     <li>
@@ -69,6 +69,11 @@
 
     <li>
       <a href="{{url('/arabe')}}">ARABE</a>
+    </li>
+
+
+    <li>
+      <a href="{{url('/arabe')}}">BUREAUTIQUE</a>
     </li>
 
     -------------------------------------

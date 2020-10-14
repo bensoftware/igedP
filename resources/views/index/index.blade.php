@@ -16,6 +16,7 @@
   @endif
 
 <section class="home-slider owl-carousel">
+
   <div class="slider-item" style="background-image:url({{URL::asset('public/images/course-6.jpg')}});">
     <div class="overlay"></div>
     <div class="container">
@@ -66,6 +67,7 @@
     </div>
     </div>
   </div>
+
 </section>
 
 
@@ -286,10 +288,8 @@
     </div>
   </a>
 -->
-
   </div>
 </div>
-
 
 </section>
 <!-- end ond  secsection-->
